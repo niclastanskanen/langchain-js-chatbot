@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.2.5",
+    "@langchain/openai": "^0.1.1",
+    "@supabase/supabase-js": "^2.43.4",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.4"
+  }
+}
